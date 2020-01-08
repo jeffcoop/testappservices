@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azxwebapptest", "azxwebapptest\azxwebapptest.csproj", "{1D6C60E5-1FB4-4D31-A7DA-296A0EF0CDED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azxwebapptest", "azxwebapptest\azxwebapptest.csproj", "{8F4DDE64-A194-47F0-9285-71479DF83695}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1D6C60E5-1FB4-4D31-A7DA-296A0EF0CDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D6C60E5-1FB4-4D31-A7DA-296A0EF0CDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D6C60E5-1FB4-4D31-A7DA-296A0EF0CDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D6C60E5-1FB4-4D31-A7DA-296A0EF0CDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4DDE64-A194-47F0-9285-71479DF83695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4DDE64-A194-47F0-9285-71479DF83695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4DDE64-A194-47F0-9285-71479DF83695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4DDE64-A194-47F0-9285-71479DF83695}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8D395AA9-D598-4F07-90FA-21023EFE2D53}
+		SolutionGuid = {F9833227-B129-461F-A9FE-10B1CB25AEA1}
 	EndGlobalSection
 EndGlobal
